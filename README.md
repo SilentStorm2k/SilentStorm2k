@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My Github Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilentStorm2k&theme=monokai) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilentStorm2k&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilentStorm2k&theme=monokai)
+
 <!--
 **SilentStorm2k/SilentStorm2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

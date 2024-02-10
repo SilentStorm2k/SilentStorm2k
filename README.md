@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="left">
+
+<a href="https://github.com/SilentStorm2k">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA4C&multiline=true&random=false&width=435&lines=Shivvanandh+Mohan+;Software+Engineer+%7C+Web+Developer;AI+%7C+Backend+%7C+Java" alt="Typing SVG" />
+</a>
+
+<br>
+<br>
 
 My Github Stats
 

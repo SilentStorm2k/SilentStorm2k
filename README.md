@@ -1,11 +1,22 @@
-<p align="left">
-
-<a href="https://github.com/SilentStorm2k">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA4C&multiline=true&random=false&width=435&lines=Shivvanandh+Mohan+;Software+Engineer+%7C+Web+Developer;AI+%7C+Backend+%7C+Java" alt="Typing SVG" />
-</a>
-
-<br>
-<br>
+<p align="center">
+    <a href="https://github.com/SilentStorm2k">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA4C&multiline=true&random=false&width=435&lines=Shivvanandh+Mohan+;Software+Engineer+%7C+Web+Developer;AI+%7C+Backend+%7C+Java" alt="Typing SVG" />
+    </a>
+    <br>
+    <br>
+    <a href="">
+        <img src="https://img.shields.io/badge/Website--red?style=flat-square">
+    </a>  
+    <a href="">
+        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    </a>  
+    <a href="https://www.linkedin.com/in/shivvanandh-m-514296172/">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:shivvanandh@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    </a>
+</p>
 
 My Github Stats
 

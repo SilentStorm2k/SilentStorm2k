@@ -4,13 +4,13 @@
     </a>
     <br>
     <br>
-    <a href="">
+    <a href="https://silentstorm2k.github.io/">
         <img src="https://img.shields.io/badge/Website--red?style=flat-square">
     </a>  
-    <a href="">
+    <a href="https://registry.jsonresume.org/SilentStorm2k">
         <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
     </a>  
-    <a href="https://www.linkedin.com/in/shivvanandh-m-514296172/">
+    <a href="https://www.linkedin.com/in/shiva-mo/">
         <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
     </a>
     <a href="mailto:shivvanandh@gmail.com">
